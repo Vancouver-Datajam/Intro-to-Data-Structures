@@ -2,6 +2,8 @@
 
 Launch material https://tinyurl.com/vdjpython-data-structures
 
+You will require a Google account to access the material.
+
 ### Workshop level: beginner
 
 ### Workshop Description
